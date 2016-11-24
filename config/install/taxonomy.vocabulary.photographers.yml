@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {  }
+name: Photographers
+vid: photographers
+description: ''
+hierarchy: 0
+weight: 0
