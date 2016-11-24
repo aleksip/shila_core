@@ -2,6 +2,7 @@ name: 'Shila Core'
 type: module
 core: 8.x
 dependencies:
+  - language
   - taxonomy
 package: Shila
 description: 'Provides core components required by other features.'

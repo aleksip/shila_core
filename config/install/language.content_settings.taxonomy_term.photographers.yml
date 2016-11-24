@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.photographers
+id: taxonomy_term.photographers
+target_entity_type_id: taxonomy_term
+target_bundle: photographers
+default_langcode: zxx
+language_alterable: false

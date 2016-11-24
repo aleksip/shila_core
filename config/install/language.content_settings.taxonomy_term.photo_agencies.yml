@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.photo_agencies
+id: taxonomy_term.photo_agencies
+target_entity_type_id: taxonomy_term
+target_bundle: photo_agencies
+default_langcode: zxx
+language_alterable: false
