@@ -1,8 +1,8 @@
 langcode: zxx
 status: true
 dependencies: {  }
-name: 'Photo agencies'
-vid: photo_agencies
+name: People
+vid: people
 description: ''
 hierarchy: 0
 weight: 0
