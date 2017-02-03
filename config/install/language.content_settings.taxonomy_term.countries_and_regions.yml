@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.countries_and_regions
+id: taxonomy_term.countries_and_regions
+target_entity_type_id: taxonomy_term
+target_bundle: countries_and_regions
+default_langcode: site_default
+language_alterable: false

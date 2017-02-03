@@ -1,0 +1,8 @@
+langcode: und
+status: true
+dependencies: {  }
+name: 'Countries and regions'
+vid: countries_and_regions
+description: ''
+hierarchy: 0
+weight: 0
