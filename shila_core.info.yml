@@ -2,7 +2,13 @@ name: 'Shila Core'
 type: module
 core: 8.x
 dependencies:
+  - entity_reference_revisions
+  - field
   - language
+  - node
+  - paragraphs
+  - path
   - taxonomy
+  - user
 package: Shila
 description: 'Provides core components required by other features.'
