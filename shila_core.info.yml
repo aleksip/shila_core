@@ -11,4 +11,4 @@ dependencies:
   - taxonomy
   - user
 package: Shila
-description: 'Provides core components required by other features.'
+description: 'Provides core components required by other Shila features.'
